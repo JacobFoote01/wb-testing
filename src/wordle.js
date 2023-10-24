@@ -1,4 +1,4 @@
-import { getWord, isWord } from './words.js';
+import { getWord, isWord } from './words.js'
 
 const LETTER_STATUSES = {
   ABSENT: 'ABSENT',
